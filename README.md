@@ -33,12 +33,14 @@ GymFitness-Testing/
 │   └── GymFitness_TestPlan.docx
 
 │
+
 ├── TestCases/
 
 │   └── GymFitness_TestCases.xlsx
 
 │
-└── FinalReport/
+│└── FinalReport/
+
     └── GymFitness_FinalReport.pdf
     
 
