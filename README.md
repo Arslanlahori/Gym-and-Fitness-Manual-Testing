@@ -25,20 +25,14 @@ The Final Report provides a comprehensive summary of the manual testing efforts 
 
 
 GymFitness-Testing/
-
 │
 ├── TestPlan/
-
 │   └── GymFitness_TestPlan.docx
-
 │
 ├── TestCases/
-
 │   └── GymFitness_TestCases.xlsx
-
 │
 └── FinalReport/
-
     └── GymFitness_FinalReport.pdf
     
 
