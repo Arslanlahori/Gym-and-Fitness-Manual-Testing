@@ -22,6 +22,8 @@ The Test Cases document contains detailed test scenarios and procedures designed
 The Final Report provides a comprehensive summary of the manual testing efforts conducted during the project. It includes a detailed analysis of test results, any issues or defects identified, and the overall quality of the gym and fitness management system. The Final Report serves as a crucial document for stakeholders, providing insights into the system's readiness for deployment.
 
 **Repository Structure:**
+
+
 GymFitness-Testing/
 │
 ├── TestPlan/
@@ -32,4 +34,10 @@ GymFitness-Testing/
 │
 └── FinalReport/
     └── GymFitness_FinalReport.pdf
+
+
+
+
+
+    
 
