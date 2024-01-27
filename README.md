@@ -25,6 +25,7 @@ The Final Report provides a comprehensive summary of the manual testing efforts 
 
 
 GymFitness-Testing/
+
 │
 ├── TestPlan/
 │   └── GymFitness_TestPlan.docx
